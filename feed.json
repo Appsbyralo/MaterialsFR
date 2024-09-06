@@ -1,5 +1,5 @@
 {
- "title": "Une application sur les applications - Français",
+ "title": "An App About Apps - Français",
  "subtitle": "Une collection de leçons Swift",
  "publisherName": "Vallensbæk Kommune et ATEA Danemark",
  "feedIdentifier": "com.github.appsbyralo",
@@ -7,7 +7,7 @@
  "formatVersion": "1.0",
  "documents": [
  {
- "title": "Une application sur les applications",
+ "title": "An App About Apps",
  "overviewSubtitle": "Tout ce dont vous avez besoin pour commencer à créer des applications",
  "detailSubtitle": "",
  "description": "Téléchargez l'application du projet éducatif où vous pouvez accéder à tout le matériel, les descriptions, les activités, le portfolio et les documents",
