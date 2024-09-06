@@ -1,26 +1,26 @@
 {
-  "title": "Une application sur les applications - Français",
-  "subtitle": "Une collection de leçons Swift",
-  "publisherName": "Vallensbæk Kommune et ATEA Danemark",
-  "feedIdentifier": "com.github.appsbyralo",
-  "contactURL": "mailto:ralotoft@gmail.com",
-  "formatVersion": "1.0",
-  "documents": [
-    {
-      "title": "Une application sur les applications",
-      "overviewSubtitle": "Tout ce dont vous avez besoin pour commencer à créer des applications",
-      "detailSubtitle": "",
-      "description": "Téléchargez l'application du projet éducatif où vous pouvez accéder à tout le matériel, les descriptions, les activités, le portfolio et les documents",
-      "contentIdentifier": "com.github.appsbyralo.AAAAFR",
-      "contentVersion": "1.0",
-      "url": "https://appsbyralo.github.io/materialsFR/AAAAFR.swiftpm.zip",
-      "publishedDate": "2024-08-18T12:00:00+00:00",
-      "lastUpdatedDate": "2024-08-18T12:00:00+00:00",
-      "thumbnailURL": "https://appsbyralo.github.io/AAAAADA/Thumbnail.png",
-      "bannerImageURL": "https://appsbyralo.github.io/AAAADA/Banner.png",
-      "additionalInformation": [
-        {
-          "name": "Langues",
+ "title": "Une application sur les applications - Français",
+ "subtitle": "Une collection de leçons Swift",
+ "publisherName": "Vallensbæk Kommune et ATEA Danemark",
+ "feedIdentifier": "com.github.appsbyralo",
+ "contactURL": "mailto:ralotoft@gmail.com",
+ "formatVersion": "1.0",
+ "documents": [
+ {
+ "title": "Une application sur les applications",
+ "overviewSubtitle": "Tout ce dont vous avez besoin pour commencer à créer des applications",
+ "detailSubtitle": "",
+ "description": "Téléchargez l'application du projet éducatif où vous pouvez accéder à tout le matériel, les descriptions, les activités, le portfolio et les documents",
+ "contentIdentifier": "com.github.appsbyralo.AAAAFR",
+ "contentVersion": "1.0",
+ "url": "https://appsbyralo.github.io/materialsFR/AAAAFR.swiftpm.zip",
+ "publishedDate": "2024-08-18T12:00:00+00:00",
+ "lastUpdatedDate": "2024-08-18T12:00:00+00:00",
+ "thumbnailURL": "https://appsbyralo.github.io/AAAAADA/Thumbnail.png",
+ "bannerImageURL": "https://appsbyralo.github.io/AAAADA/Banner.png",
+ "additionalInformation": [
+ {
+          "name": "Languages",
           "value": "Français"
         }
       ],
@@ -42,7 +42,7 @@
       "bannerImageURL": "https://appsbyralo.github.io/AAAADA/Banner.png",
       "additionalInformation": [
         {
-          "name": "Langues",
+          "name": "Languages",
           "value": "Français"
         }
       ],
@@ -64,7 +64,7 @@
       "bannerImageURL": "https://appsbyralo.github.io/AAAADA/Banner.png",
       "additionalInformation": [
         {
-          "name": "Langues",
+          "name": "Languages",
           "value": "Français"
         }
       ],
@@ -89,7 +89,7 @@
       "bannerImageURL": "https://appsbyralo.github.io/AAAADA/Banner.png",
       "additionalInformation": [
         {
-          "name": "Langues",
+          "name": "Languages",
           "value": "Français"
         }
       ],
@@ -111,7 +111,7 @@
       "bannerImageURL": "https://appsbyralo.github.io/AAAADA/Banner.png",
       "additionalInformation": [
         {
-          "name": "Langues",
+          "name": "Languages",
           "value": "Français"
         }
       ],
